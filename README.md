@@ -3,7 +3,7 @@
 ## Initial setup
 
 1. Install LaTex Workshop, LaTeX Utilities in vscode extensions
-2. Install BasicTex, perl, latexindent from brew
+2. Install BasicTex cask, perl, latexindent from brew
 3. Install latexmk, chktex with tlmgr `sudo tlmgr install latexmk`
 4. Set latexindent path in settings of LaTex Workshop extension
 5. Install Zotero
