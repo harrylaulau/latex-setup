@@ -4,9 +4,10 @@
 
 1. Install LaTex Workshop, LaTeX Utilities in vscode extensions
 2. Install BasicTex cask, perl, latexindent from brew
-3. Install latexmk, chktex with tlmgr `sudo tlmgr install latexmk`
-4. Set latexindent path in settings of LaTex Workshop extension
-5. Install Zotero
-6. Install Code Spell Checker in vscode extensions
-7. Write latex!
+3. Update tlmgr by `tlmgr update --self`
+4. Install latexmk, chktex with tlmgr `sudo tlmgr install latexmk`
+5. Set latexindent path in settings of LaTex Workshop extension
+6. Install Zotero
+7. Install Code Spell Checker in vscode extensions
+8. Write latex!
 
