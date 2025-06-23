@@ -1,3 +1,11 @@
 {
-	"cSpell.words": ["chktex", "latexindent", "latexmk", "tlmgr", "Zotero"]
+	"cSpell.words": [
+		"chktex",
+		"ghostscript",
+		"latexindent",
+		"latexmk",
+		"tlmgr",
+		"Zotero",
+		"texcount"
+	]
 }
