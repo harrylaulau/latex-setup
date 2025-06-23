@@ -1,11 +1,14 @@
 {
 	"cSpell.words": [
+		"biber",
+		"biblatex",
 		"chktex",
 		"ghostscript",
 		"latexindent",
 		"latexmk",
+		"natbib",
+		"texcount",
 		"tlmgr",
-		"Zotero",
-		"texcount"
+		"Zotero"
 	]
 }
