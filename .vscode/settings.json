@@ -1,14 +1,22 @@
 {
 	"cSpell.words": [
+		"adjustbox",
 		"biber",
 		"biblatex",
 		"chktex",
+		"csquotes",
+		"emptypage",
 		"ghostscript",
 		"latexindent",
 		"latexmk",
+		"multirow",
 		"natbib",
+		"sectsty",
+		"subfigure",
 		"texcount",
 		"tlmgr",
+		"wrapfig",
+		"xstring",
 		"Zotero"
 	]
 }
